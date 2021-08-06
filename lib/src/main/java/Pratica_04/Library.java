@@ -9,6 +9,6 @@ public class Library {
     }
     
     public boolean someLibraryMethod2() {
-        return false;
+        return true;
     }
 }
